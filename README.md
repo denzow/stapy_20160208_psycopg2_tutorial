@@ -1,0 +1,2 @@
+# stapy_20160208_psycopg2_tutorial
+#stapy の20160208回、Psycopg2入門の資料リポジトリです
